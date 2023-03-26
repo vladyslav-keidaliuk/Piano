@@ -12,3 +12,7 @@ This application can reproduce piano sounds, you can change the length of the so
 By saving the keys that are pressed, you can create melodies and play them.
 You can delete individual pressed notes by pressing the corresponding note button.
 There is also a function to pause and clear recorded keys.
+
+
+
+![image](https://user-images.githubusercontent.com/102413334/227785103-d6d512c1-34dd-4517-a3e7-1f1f96dc5928.png)
